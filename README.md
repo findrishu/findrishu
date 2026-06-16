@@ -1,5 +1,56 @@
-# 💫 About Me:
-# Hi, I'm Rahul Sharma 👋<br><br>I am a B.Tech Computer Science Engineering student and a CEH-certified cybersecurity learner.<br><br>I am currently learning and practicing:<br><br>* Cybersecurity fundamentals<br>* Ethical hacking<br>* Web penetration testing<br>* Kali Linux<br>* Linux terminal basics<br>* Networking basics<br>* Python<br>* HTML<br>* C Programming<br>* Nmap<br>* Burp Suite<br>* OWASP Top 10<br>* Security documentation<br><br>## 🎯 Current Goal<br><br>My goal is to build strong practical skills in cybersecurity and start my career as a Cybersecurity Analyst, SOC Analyst, Security Analyst, or Web Penetration Testing learner/intern.<br><br>## 🛠️ Tools & Skills I’m Learning<br><br>* Kali Linux<br>* Nmap<br>* Burp Suite<br>* Linux<br>* Networking<br>* Python<br>* HTML<br>* C Programming<br>* OWASP Top 10<br>* Vulnerability Assessment Basics<br><br>## 📚 Certifications<br><br>* CPCEH – Cyber Pathshala Certified Ethical Hacker<br>* Certified Ethical Hacker learning background<br><br>## 🚀 Learning Projects<br><br>I am building hands-on cybersecurity labs and documenting my learning journey through ethical and authorized practice only.<br><br>I also create beginner-friendly cybersecurity notes, Linux practice material, and small coding projects using Python, HTML, and C.<br><br>## 🤝 Connect With Me<br><br>I am open to connecting with cybersecurity professionals, recruiters, mentors, and fellow learners.<br>
+💫 About Me:
+
+Hi, I'm Rahul Sharma 👋
+
+I am a B.Tech Computer Science Engineering student and a CEH-certified cybersecurity learner.
+
+I am currently learning and practicing:
+
+* Cybersecurity fundamentals
+* Ethical hacking
+* Web penetration testing
+* Kali Linux
+* Linux terminal basics
+* Networking basics
+* Python
+* HTML
+* C Programming
+* Nmap
+* Burp Suite
+* OWASP Top 10
+* Security documentation
+
+🎯 Current Goal
+
+My goal is to build strong practical skills in cybersecurity and start my career as a Cybersecurity Analyst, SOC Analyst, Security Analyst, or Web Penetration Testing learner/intern.
+
+🛠️ Tools & Skills I’m Learning
+
+* Kali Linux
+* Nmap
+* Burp Suite
+* Linux
+* Networking
+* Python
+* HTML
+* C Programming
+* OWASP Top 10
+* Vulnerability Assessment Basics
+
+📚 Certifications
+
+* CPCEH – Cyber Pathshala Certified Ethical Hacker
+* Certified Ethical Hacker learning background
+
+🚀 Learning Projects
+
+I am building hands-on cybersecurity labs and documenting my learning journey through ethical and authorized practice only.
+
+I also create beginner-friendly cybersecurity notes, Linux practice material, and small coding projects using Python, HTML, and C.
+
+🤝 Connect With Me
+
+I am open to connecting with cybersecurity professionals, recruiters, mentors, and fellow learners.
 
 
 ## 🌐 Socials:
