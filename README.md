@@ -1,56 +1,57 @@
-💫 About Me:
+### 💫 About Me:
 
-Hi, I'm Rahul Sharma 👋
+### Hi, I'm Rahul Sharma 👋
 
-I am a B.Tech Computer Science Engineering student and a CEH-certified cybersecurity learner.
+**I am a B.Tech Computer Science Engineering student and a CEH-certified cybersecurity learner.**
 
-I am currently learning and practicing:
+**I am currently learning and practicing:**
 
-* Cybersecurity fundamentals
-* Ethical hacking
-* Web penetration testing
-* Kali Linux
-* Linux terminal basics
-* Networking basics
-* Python
-* HTML
-* C Programming
-* Nmap
-* Burp Suite
-* OWASP Top 10
-* Security documentation
+* **Cybersecurity fundamentals**
+* **Ethical hacking**
+* **Web penetration testing**
+* **Kali Linux**
+* **Linux terminal basics**
+* **Networking basics**
+* **Python**
+* **HTML**
+* **C Programming**
+* **Nmap**
+* **Burp Suite**
+* **OWASP Top 10**
+* **Security documentation**
 
-🎯 Current Goal
+### 🎯 Current Goal
 
-My goal is to build strong practical skills in cybersecurity and start my career as a Cybersecurity Analyst, SOC Analyst, Security Analyst, or Web Penetration Testing learner/intern.
+**My goal is to build strong practical skills in cybersecurity and start my career as a Cybersecurity Analyst, SOC Analyst, Security Analyst, or Web Penetration Testing learner/intern.**
 
-🛠️ Tools & Skills I’m Learning
+### 🛠️ Tools & Skills I’m Learning
 
-* Kali Linux
-* Nmap
-* Burp Suite
-* Linux
-* Networking
-* Python
-* HTML
-* C Programming
-* OWASP Top 10
-* Vulnerability Assessment Basics
+* **Kali Linux**
+* **Nmap**
+* **Burp Suite**
+* **Linux**
+* **Networking**
+* **Python**
+* **HTML**
+* **C Programming**
+* **OWASP Top 10**
+* **Vulnerability Assessment Basics**
 
-📚 Certifications
+### 📚 Certifications
 
-* CPCEH – Cyber Pathshala Certified Ethical Hacker
-* Certified Ethical Hacker learning background
+* **CPCEH – Cyber Pathshala Certified Ethical Hacker**
+* **Certified Ethical Hacker learning background**
 
-🚀 Learning Projects
+### 🚀 Learning Projects
 
-I am building hands-on cybersecurity labs and documenting my learning journey through ethical and authorized practice only.
+**I am building hands-on cybersecurity labs and documenting my learning journey through ethical and authorized practice only.**
 
-I also create beginner-friendly cybersecurity notes, Linux practice material, and small coding projects using Python, HTML, and C.
+**I also create beginner-friendly cybersecurity notes, Linux practice material, and small coding projects using Python, HTML, and C.**
 
-🤝 Connect With Me
+### 🤝 Connect With Me
 
-I am open to connecting with cybersecurity professionals, recruiters, mentors, and fellow learners.
+**I am open to connecting with cybersecurity professionals, recruiters, mentors, and fellow learners.**
+
 
 
 ## 🌐 Socials:
