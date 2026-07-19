@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=100000&color=2C5364&center=true&vCenter=true&repeat=false&width=500&lines=👨‍💻+Professional+Summary" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=100000&color=F5E6C4&center=true&vCenter=true&repeat=false&width=500&lines=👨‍💻+Professional+Summary" />
 </div>
 
 B.Tech Computer Science student and **CEH-certified cybersecurity learner** specializing in ethical hacking, web application penetration testing, and vulnerability assessment. Skilled in **data analysis** and **prompt engineering**, combining technical security expertise with analytical and AI-driven workflows. Actively building hands-on labs on Kali Linux, documenting authorized security research, and seeking opportunities as a **Cybersecurity Analyst / SOC Analyst / Security Analyst**.
@@ -17,7 +17,7 @@ B.Tech Computer Science student and **CEH-certified cybersecurity learner** spec
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=100000&color=2C5364&center=true&vCenter=true&repeat=false&width=500&lines=🎯+Career+Focus" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=100000&color=F5E6C4&center=true&vCenter=true&repeat=false&width=500&lines=🎯+Career+Focus" />
 </div>
 
 <div align="center">
@@ -33,7 +33,7 @@ B.Tech Computer Science student and **CEH-certified cybersecurity learner** spec
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=100000&color=2C5364&center=true&vCenter=true&repeat=false&width=500&lines=🛠️+Core+Skills" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=100000&color=F5E6C4&center=true&vCenter=true&repeat=false&width=500&lines=🛠️+Core+Skills" />
 </div>
 
 <div align="center">
@@ -55,7 +55,7 @@ B.Tech Computer Science student and **CEH-certified cybersecurity learner** spec
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=100000&color=2C5364&center=true&vCenter=true&repeat=false&width=500&lines=📚+Certifications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=100000&color=F5E6C4&center=true&vCenter=true&repeat=false&width=500&lines=📚+Certifications" />
 </div>
 
 - 🏅 **CPCEH** — Cyber Pathshala Certified Ethical Hacker
@@ -64,7 +64,7 @@ B.Tech Computer Science student and **CEH-certified cybersecurity learner** spec
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=100000&color=2C5364&center=true&vCenter=true&repeat=false&width=500&lines=📊+GitHub+Analytics" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=100000&color=F5E6C4&center=true&vCenter=true&repeat=false&width=500&lines=📊+GitHub+Analytics" />
 </div>
 
 <div align="center">
@@ -79,7 +79,7 @@ B.Tech Computer Science student and **CEH-certified cybersecurity learner** spec
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=100000&color=2C5364&center=true&vCenter=true&repeat=false&width=500&lines=🏆+GitHub+Achievements" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=100000&color=F5E6C4&center=true&vCenter=true&repeat=false&width=500&lines=🏆+GitHub+Achievements" />
 </div>
 
 <div align="center">
@@ -95,7 +95,7 @@ B.Tech Computer Science student and **CEH-certified cybersecurity learner** spec
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=100000&color=2C5364&center=true&vCenter=true&repeat=false&width=500&lines=🌐+Connect+With+Me" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=100000&color=F5E6C4&center=true&vCenter=true&repeat=false&width=500&lines=🌐+Connect+With+Me" />
 </div>
 
 <div align="center">
