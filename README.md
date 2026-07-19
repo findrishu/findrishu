@@ -85,9 +85,9 @@ B.Tech Computer Science student and **CEH-certified cybersecurity learner** spec
 <div align="center">
 
 <a href="https://github.com/findrishu?tab=achievements">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" height="100" alt="Pull Shark" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" height="100" alt="YOLO" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" height="100" alt="Quickdraw" />
+<img src="https://cdn.jsdelivr.net/gh/dawidolko/Github-Badges-Achievements@main/assets/badges/PullShark.png" width="100" height="100" alt="Pull Shark" />
+<img src="https://cdn.jsdelivr.net/gh/dawidolko/Github-Badges-Achievements@main/assets/badges/Yolo.png" width="100" height="100" alt="YOLO" />
+<img src="https://cdn.jsdelivr.net/gh/dawidolko/Github-Badges-Achievements@main/assets/badges/Quickdraw.png" width="100" height="100" alt="Quickdraw" />
 </a>
 
 </div>
