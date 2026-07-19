@@ -1,24 +1,97 @@
-# 💫 About Me:
-# Hi, I'm Rahul Sharma 👋<br><br>I am a B.Tech Computer Science Engineering student and a CEH-certified cybersecurity learner.<br><br>I am currently learning and practicing:<br><br>* Cybersecurity fundamentals<br>* Ethical hacking<br>* Web penetration testing<br>* Kali Linux<br>* Linux terminal basics<br>* Networking basics<br>* Python<br>* HTML<br>* C Programming<br>* Nmap<br>* Burp Suite<br>* OWASP Top 10<br>* Security documentation<br><br>## 🎯 Current Goal<br><br>My goal is to build strong practical skills in cybersecurity and start my career as a Cybersecurity Analyst, SOC Analyst, Security Analyst, or Web Penetration Testing learner/intern.<br><br>## 🛠️ Tools & Skills I’m Learning<br><br>* Kali Linux<br>* Nmap<br>* Burp Suite<br>* Linux<br>* Networking<br>* Python<br>* HTML<br>* C Programming<br>* OWASP Top 10<br>* Vulnerability Assessment Basics<br><br>## 📚 Certifications<br><br>* CPCEH – Cyber Pathshala Certified Ethical Hacker<br>* Certified Ethical Hacker learning background<br><br>## 🚀 Learning Projects<br><br>I am building hands-on cybersecurity labs and documenting my learning journey through ethical and authorized practice only.<br><br>I also create beginner-friendly cybersecurity notes, Linux practice material, and small coding projects using Python, HTML, and C.<br><br>## 🤝 Connect With Me<br><br>I am open to connecting with cybersecurity professionals, recruiters, mentors, and fellow learners.<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rahul%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Analyst%20%7C%20Data%20Analyst%20%7C%20Prompt%20Engineer&descAlignY=55&descSize=18" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/trynafind.rahul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulsharma82972@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=CEH+Certified+%7C+Ethical+Hacking+%2B+Web+Pentesting;Data+Analysis+%2B+Prompt+Engineering;Building+Secure+Systems%2C+One+Lab+at+a+Time" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rahul-Sharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Rahul-Sharma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rahul-Sharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rahul-Sharma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 👨‍💻 Professional Summary
 
----
-[![](https://komarev.com/ghpvc/?username=Rahul-Sharma&icon=0&color=0)](https://visitcount.itsvg.in)
+B.Tech Computer Science student and **CEH-certified cybersecurity learner** specializing in ethical hacking, web application penetration testing, and vulnerability assessment. Skilled in **data analysis** and **prompt engineering**, combining technical security expertise with analytical and AI-driven workflows. Actively building hands-on labs on Kali Linux, documenting authorized security research, and seeking opportunities as a **Cybersecurity Analyst / SOC Analyst / Security Analyst**.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+## 🎯 Career Focus
+
+<div align="center">
+
+| Cybersecurity | Data & AI |
+|:---:|:---:|
+| SOC Analyst | Data Analysis |
+| Security Analyst | Prompt Engineering |
+| Web Pentesting Intern | AI-assisted Research |
+
+</div>
+
+<br>
+
+## 🛠️ Core Skills
+
+<div align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Networking-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+<br>
+
+## 📚 Certifications
+
+- 🏅 **CPCEH** — Cyber Pathshala Certified Ethical Hacker
+- 🏅 Certified Ethical Hacker (CEH) — Learning Background
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=Rahul-Sharma&theme=radical&hide_border=true&include_all_commits=false&count_private=false" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rahul-Sharma&theme=radical&hide_border=true&layout=compact" />
+
+<img src="https://streak-stats.demolab.com/?user=Rahul-Sharma&theme=radical&hide_border=true" />
+
+</div>
+
+<br>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rahul-Sharma&theme=radical&no-frame=true&margin-w=6&row=1" />
+
+</div>
+
+<br>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/trynafind.rahul)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulsharma82972@gmail.com)
+
+</div>
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Rahul-Sharma&style=for-the-badge&color=0f2027&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
