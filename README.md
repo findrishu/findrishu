@@ -43,7 +43,7 @@ B.Tech Computer Science student and **CEH-certified cybersecurity learner** spec
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Networking-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
@@ -69,22 +69,26 @@ B.Tech Computer Science student and **CEH-certified cybersecurity learner** spec
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=Rahul-Sharma&theme=radical&hide_border=true&include_all_commits=false&count_private=false" />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rahul-Sharma&theme=radical&hide_border=true&layout=compact" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=findrishu&theme=radical&hide_border=true&include_all_commits=false&count_private=false" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=findrishu&theme=radical&hide_border=true&layout=compact" />
 
-<img src="https://streak-stats.demolab.com/?user=Rahul-Sharma&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=findrishu&theme=radical&hide_border=true" />
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=100000&color=2C5364&center=true&vCenter=true&repeat=false&width=500&lines=🏆+Trophies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=100000&color=2C5364&center=true&vCenter=true&repeat=false&width=500&lines=🏆+GitHub+Achievements" />
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rahul-Sharma&theme=radical&no-frame=true&margin-w=6&row=1" />
+<a href="https://github.com/findrishu?tab=achievements">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" height="100" alt="Pull Shark" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" height="100" alt="YOLO" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" height="100" alt="Quickdraw" />
+</a>
 
 </div>
 
@@ -104,7 +108,7 @@ B.Tech Computer Science student and **CEH-certified cybersecurity learner** spec
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Rahul-Sharma&style=for-the-badge&color=0f2027&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=findrishu&style=for-the-badge&color=0f2027&label=PROFILE+VIEWS)
 
 </div>
 
