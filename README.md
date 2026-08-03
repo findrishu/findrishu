@@ -48,7 +48,13 @@ B.Tech Computer Science student and **CEH-certified cybersecurity learner** spec
 ![Wireshark](https://img.shields.io/badge/Networking-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
@@ -111,5 +117,15 @@ B.Tech Computer Science student and **CEH-certified cybersecurity learner** spec
 ![Visitor Count](https://komarev.com/ghpvc/?username=findrishu&style=for-the-badge&color=0f2027&label=PROFILE+VIEWS)
 
 </div>
+
+<br>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=100000&color=2C5364&center=true&vCenter=true&repeat=false&width=500&lines=Space+Shooter" />
+<br><br>
+<img src="game.gif" alt="Space Shooter Game" />
+</div>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
